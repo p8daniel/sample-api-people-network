@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "sample-api-people-network"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+classifiers =[
+	"Programming Language :: Python :: 3",
+	"Programming Language :: Python :: 3.11"
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.103.2"
+neo4j = "^5.13.0"
+uvicorn = "^0.23.2"
+asgi-correlation-id = "^4.2.0"
+pydantic-settings = "^2.0.3"
+starlette-exporter = "^0.16.0"
+uvloop = { version ="~=0.17.0", optional = true }
+
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+tox-poetry = "^0.5.0"
+tox = "^3.28.0"
+PyYAML = "^6.0.1"
+httpx = "^0.25.0"
+pytest-mock = "^3.11.1"
+pytest-asyncio = "^0.21.1"
+
+
+
+[tool.poetry.extras]
+prod = ["uvloop"]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

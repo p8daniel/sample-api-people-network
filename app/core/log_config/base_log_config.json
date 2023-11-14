@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "formatters": {
+        "default": {
+            "format": "%(asctime)s [%(process)d] [%(correlation_id)s] [%(levelname)s] in %(module)s %(message)s",
+            "datefmt": "[%Y-%m-%d %H:%M:%S %z]"
+        }
+    },
+    "filters": {
+                "correlation_id": {
+                    "()": "asgi_correlation_id.CorrelationIdFilter",
+                    "uuid_length": 32
+                }
+            },
+    "handlers": {
+        "wsgi": {
+            "class": "logging.StreamHandler",
+            "formatter": "default",
+            "filters": ["correlation_id"],
+            "level": "INFO"
+        }
+    },
+    "root": {"level": "NOTSET"},
+    "loggers": {
+        "gunicorn.access": {"level": "INFO", "handlers": ["wsgi"]},
+        "gunicorn.error": {"level": "INFO", "handlers": ["wsgi"]},
+        "uvicorn.access": {"level": "INFO", "handlers": ["wsgi"]},
+        "uvicorn.error": {"level": "INFO", "handlers": ["wsgi"]},
+        "app": {"level": "INFO", "handlers": ["wsgi"], "propagate": true}
+    }
+}

@@ -1,0 +1,44 @@
+[
+        {
+            "person": {
+                "firstname": "Anna",
+                "nickname": "Annie",
+                "uuid": "abcb029f-9562-46db-bfc9-b3fb00b60e2e",
+                "lastname": "Smith"
+            },
+            "child": {
+                "firstname": "Susan",
+                "nickname": "Susie",
+                "uuid": "801225df-d5e1-4b01-adae-0cca392608da",
+                "lastname": "Smith"
+            },
+            "parent": {
+                "firstname": "Lisa",
+                "nickname": "Lee",
+                "uuid": "94c245b1-3be2-4eda-8737-e559f8cac2e5",
+                "lastname": "Smith"
+            },
+            "friend": null
+        },
+        {
+            "person": {
+                "firstname": "Anna",
+                "nickname": "Annie",
+                "uuid": "abcb029f-9562-46db-bfc9-b3fb00b60e2e",
+                "lastname": "Smith"
+            },
+            "child": {
+                "firstname": "John",
+                "nickname": "Johnny",
+                "uuid": "4b3df73f-0174-4c20-b82c-89a1466689cb",
+                "lastname": "Smith"
+            },
+            "parent": {
+                "firstname": "Lisa",
+                "nickname": "Lee",
+                "uuid": "94c245b1-3be2-4eda-8737-e559f8cac2e5",
+                "lastname": "Smith"
+            },
+            "friend": null
+        }
+    ]

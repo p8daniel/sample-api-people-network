@@ -1,0 +1,440 @@
+property_uuid,property_label,observation_type_clean,observation_type_str
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,HFC-123,metron:ObservationHFC123
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,HFC-123,metron:ObservationHFC123
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,HFC-123,metron:ObservationHFC123
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,HFC-123,metron:ObservationHFC123
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,HFC-123,metron:ObservationHFC123
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,HFC-123,metron:ObservationHFC123
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,HFC-123,metron:ObservationHFC123
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,HFC-123,metron:ObservationHFC123
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,HFC-123,metron:ObservationHFC123
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,HFC-123,metron:ObservationHFC123
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,HFC-123,metron:ObservationHFC123
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,HFC-123,metron:ObservationHFC123
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,HFC-123,metron:ObservationHFC123
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,HFC-123,metron:ObservationHFC123
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,HFC-123,metron:ObservationHFC123
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,HFC-123,metron:ObservationHFC123
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,R134A,metron:ObservationR134A
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,R134A,metron:ObservationR134A
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,R134A,metron:ObservationR134A
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,R134A,metron:ObservationR134A
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,R134A,metron:ObservationR134A
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,R134A,metron:ObservationR134A
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,R134A,metron:ObservationR134A
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,R134A,metron:ObservationR134A
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,R134A,metron:ObservationR134A
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,R134A,metron:ObservationR134A
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,R134A,metron:ObservationR134A
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,R134A,metron:ObservationR134A
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,R134A,metron:ObservationR134A
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,R134A,metron:ObservationR134A
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,R134A,metron:ObservationR134A
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,R134A,metron:ObservationR134A
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,R404A,metron:ObservationR404A
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,R404A,metron:ObservationR404A
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,R404A,metron:ObservationR404A
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,R404A,metron:ObservationR404A
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,R404A,metron:ObservationR404A
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,R404A,metron:ObservationR404A
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,R404A,metron:ObservationR404A
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,R404A,metron:ObservationR404A
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,R404A,metron:ObservationR404A
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,R404A,metron:ObservationR404A
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,R404A,metron:ObservationR404A
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,R404A,metron:ObservationR404A
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,R404A,metron:ObservationR404A
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,R404A,metron:ObservationR404A
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,R404A,metron:ObservationR404A
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,R404A,metron:ObservationR404A
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,R407C,metron:ObservationR407C
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,R407C,metron:ObservationR407C
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,R407C,metron:ObservationR407C
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,R407C,metron:ObservationR407C
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,R407C,metron:ObservationR407C
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,R407C,metron:ObservationR407C
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,R407C,metron:ObservationR407C
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,R407C,metron:ObservationR407C
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,R407C,metron:ObservationR407C
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,R407C,metron:ObservationR407C
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,R407C,metron:ObservationR407C
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,R407C,metron:ObservationR407C
+metron:4454232c-36bc-4320-ac20-fe5aa85c0530,Internal Energy,R407C,metron:ObservationR407C
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,R407C,metron:ObservationR407C
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,R407C,metron:ObservationR407C
+metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9,Entropy,R407C,metron:ObservationR407C
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,R407C,metron:ObservationR407C
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,R407C,metron:ObservationR407C
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,R407C,metron:ObservationR407C
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,R407C,metron:ObservationR407C
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,R407C,metron:ObservationR407C
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,R407C,metron:ObservationR407C
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,R407C,metron:ObservationR407C
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,R410A,metron:ObservationR410A
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,R410A,metron:ObservationR410A
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,R410A,metron:ObservationR410A
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,R410A,metron:ObservationR410A
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,R410A,metron:ObservationR410A
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,R410A,metron:ObservationR410A
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,R410A,metron:ObservationR410A
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,R410A,metron:ObservationR410A
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,R410A,metron:ObservationR410A
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,R410A,metron:ObservationR410A
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,R410A,metron:ObservationR410A
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,R410A,metron:ObservationR410A
+metron:4454232c-36bc-4320-ac20-fe5aa85c0530,Internal Energy,R410A,metron:ObservationR410A
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,R410A,metron:ObservationR410A
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,R410A,metron:ObservationR410A
+metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9,Entropy,R410A,metron:ObservationR410A
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,R410A,metron:ObservationR410A
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,R410A,metron:ObservationR410A
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,R410A,metron:ObservationR410A
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,R410A,metron:ObservationR410A
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,R410A,metron:ObservationR410A
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,R410A,metron:ObservationR410A
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,R410A,metron:ObservationR410A
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Air,metron:ObservationAir
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Air,metron:ObservationAir
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Air,metron:ObservationAir
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Air,metron:ObservationAir
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Air,metron:ObservationAir
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Air,metron:ObservationAir
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Air,metron:ObservationAir
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Air,metron:ObservationAir
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Air,metron:ObservationAir
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Air,metron:ObservationAir
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Air,metron:ObservationAir
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Air,metron:ObservationAir
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Air,metron:ObservationAir
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Air,metron:ObservationAir
+metron:6aa8796a-5ad7-4307-a0e5-94729ed0eb66,Relative Humidity,Air,metron:ObservationAir
+metron:ea00f641-f49f-4642-9003-5699574955c1,Dew Point,Air,metron:ObservationAir
+metron:44c45b88-ecb4-430f-a241-495f6b60bf9d,Wet Bulb Temperature,Air,metron:ObservationAir
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Air,metron:ObservationAir
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Air,metron:ObservationAir
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Ar,metron:ObservationAr
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Ar,metron:ObservationAr
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Ar,metron:ObservationAr
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Ar,metron:ObservationAr
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Ar,metron:ObservationAr
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Ar,metron:ObservationAr
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Ar,metron:ObservationAr
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Ar,metron:ObservationAr
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Ar,metron:ObservationAr
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Ar,metron:ObservationAr
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Ar,metron:ObservationAr
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Ar,metron:ObservationAr
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Ar,metron:ObservationAr
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Ar,metron:ObservationAr
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Ar,metron:ObservationAr
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Ar,metron:ObservationAr
+metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc,Mass Vapor Quality,Ar,metron:ObservationAr
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,CO2,metron:ObservationCO2
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,CO2,metron:ObservationCO2
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,CO2,metron:ObservationCO2
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,CO2,metron:ObservationCO2
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,CO2,metron:ObservationCO2
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,CO2,metron:ObservationCO2
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,CO2,metron:ObservationCO2
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,CO2,metron:ObservationCO2
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,CO2,metron:ObservationCO2
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,CO2,metron:ObservationCO2
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,CO2,metron:ObservationCO2
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,CO2,metron:ObservationCO2
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,CO2,metron:ObservationCO2
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,CO2,metron:ObservationCO2
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,CO2,metron:ObservationCO2
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,CO2,metron:ObservationCO2
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Coal,metron:ObservationCoal
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,Coal,metron:ObservationCoal
+metron:01d0171c-3701-4560-ab6e-728ba7c7520a,Massic Higher Heating Value,Coal,metron:ObservationCoal
+metron:348981f7-8101-4419-a765-864650701a4e,Massic Lower Heating Value,Coal,metron:ObservationCoal
+metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564,Volumic Higher Heating Value,Coal,metron:ObservationCoal
+metron:a0026121-a270-4f66-9a5c-d293219f6a36,Volumic Lower Heating Value,Coal,metron:ObservationCoal
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,Coal,metron:ObservationCoal
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Coal,metron:ObservationCoal
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,Coal,metron:ObservationCoal
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Coal,metron:ObservationCoal
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,Coal,metron:ObservationCoal
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Coal,metron:ObservationCoal
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Coal,metron:ObservationCoal
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,Coal,metron:ObservationCoal
+metron:ea89255a-8b10-45ec-8131-d23b67277fdd,Coal Price,Coal,metron:ObservationCoal
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Coal,metron:ObservationCoal
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Coal,metron:ObservationCoal
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Coal,metron:ObservationCoal
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Coal,metron:ObservationCoal
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Coal,metron:ObservationCoal
+metron:dacab606-3b31-48b3-9fac-2e52ad11508b,Electrical Current,Electricity,metron:ObservationElectricity
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,Electricity,metron:ObservationElectricity
+metron:13841cc6-8be4-4227-b56e-924f8a1d2820,Power Factor,Electricity,metron:ObservationElectricity
+metron:295664c1-b6c3-4627-ada7-beb6d2253a48,Mass of CO2 equivalent,Electricity,metron:ObservationElectricity
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Electricity,metron:ObservationElectricity
+metron:99b3e810-72d8-4631-8c9b-a217b92f8600,Voltage,Electricity,metron:ObservationElectricity
+metron:eb66ec40-2811-466c-aeec-f7ee68039be4,Apparent Power,Electricity,metron:ObservationElectricity
+metron:3078ec4d-3747-4a5e-b7f8-73e767912846,Reactive Power,Electricity,metron:ObservationElectricity
+metron:84b79a76-d9db-49fd-b413-9f3500d3ea12,Apparent Energy,Electricity,metron:ObservationElectricity
+metron:9ee2a6d4-0ec7-4af3-bd2e-a577a39e3dd7,Reactive Energy,Electricity,metron:ObservationElectricity
+metron:1d94e168-8232-431f-8083-1cebe63ec2be,Active Power,Electricity,metron:ObservationElectricity
+metron:7deea234-e5d9-4368-af7d-ad115c196ba9,Active Energy,Electricity,metron:ObservationElectricity
+metron:774037ec-aa65-4784-86f2-4a92eed91b1c,Frequency,Electricity,metron:ObservationElectricity
+metron:0f7300c5-3d75-4cf0-b1e0-19ba304bb5ee,Electricity Price,Electricity,metron:ObservationElectricity
+metron:3ea518fd-6d00-44e5-b9b3-db945a156774,Electric Charge,Electricity,metron:ObservationElectricity
+metron:420ffb58-e20a-4103-a439-e0cba37561da,Electrical Conductance,Electricity,metron:ObservationElectricity
+metron:fb2c606a-ff27-4807-a7e9-b40d877daee6,Electrical Conductivity,Electricity,metron:ObservationElectricity
+metron:c063390d-172e-4290-b892-1d7e7e6140c4,Electrical Resistance,Electricity,metron:ObservationElectricity
+metron:65c3d59a-535c-43f8-9f74-85a887c74e36,Electrical Energy Cost,Electricity,metron:ObservationElectricity
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Electricity,metron:ObservationElectricity
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Electricity,metron:ObservationElectricity
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Electricity,metron:ObservationElectricity
+metron:69fcd0f9-1b96-4d95-affb-97fe0f2f1e6f,Mass of CO2 equivalent per Unit Of Electrical Energy,Electricity,metron:ObservationElectricity
+metron:a5095b7b-e7fa-409d-94dd-aeb1101aecd8,CO Concentration,Exhaust Gas,metron:ObservationExhaustGas
+metron:d8ac6b95-24a8-4a58-8cf7-0c344f147aab,NOx Concentration,Exhaust Gas,metron:ObservationExhaustGas
+metron:de2af95e-d605-46e4-8126-c46d9659d95b,Particules concentration (<2.5µm),Exhaust Gas,metron:ObservationExhaustGas
+metron:7f16d9f1-6b08-4282-9454-c02991d742e3,Particles concentration (<10µm),Exhaust Gas,metron:ObservationExhaustGas
+metron:86331089-b5e1-4c34-b891-fa3c926d3346,Oxygen Concentration,Exhaust Gas,metron:ObservationExhaustGas
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Exhaust Gas,metron:ObservationExhaustGas
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Exhaust Gas,metron:ObservationExhaustGas
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Exhaust Gas,metron:ObservationExhaustGas
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Exhaust Gas,metron:ObservationExhaustGas
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Exhaust Gas,metron:ObservationExhaustGas
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Exhaust Gas,metron:ObservationExhaustGas
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Exhaust Gas,metron:ObservationExhaustGas
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Exhaust Gas,metron:ObservationExhaustGas
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Exhaust Gas,metron:ObservationExhaustGas
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Exhaust Gas,metron:ObservationExhaustGas
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Exhaust Gas,metron:ObservationExhaustGas
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Exhaust Gas,metron:ObservationExhaustGas
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Exhaust Gas,metron:ObservationExhaustGas
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Exhaust Gas,metron:ObservationExhaustGas
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Exhaust Gas,metron:ObservationExhaustGas
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Exhaust Gas,metron:ObservationExhaustGas
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Fuel,metron:ObservationFuel
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,Fuel,metron:ObservationFuel
+metron:01d0171c-3701-4560-ab6e-728ba7c7520a,Massic Higher Heating Value,Fuel,metron:ObservationFuel
+metron:348981f7-8101-4419-a765-864650701a4e,Massic Lower Heating Value,Fuel,metron:ObservationFuel
+metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564,Volumic Higher Heating Value,Fuel,metron:ObservationFuel
+metron:a0026121-a270-4f66-9a5c-d293219f6a36,Volumic Lower Heating Value,Fuel,metron:ObservationFuel
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,Fuel,metron:ObservationFuel
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Fuel,metron:ObservationFuel
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,Fuel,metron:ObservationFuel
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Fuel,metron:ObservationFuel
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,Fuel,metron:ObservationFuel
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Fuel,metron:ObservationFuel
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Fuel,metron:ObservationFuel
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,Fuel,metron:ObservationFuel
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Fuel,metron:ObservationFuel
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Fuel,metron:ObservationFuel
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Fuel,metron:ObservationFuel
+metron:5c3ef9ba-4257-4151-b7f1-d901334fdb52,Volume Fuel Price,Fuel,metron:ObservationFuel
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Fuel,metron:ObservationFuel
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Fuel,metron:ObservationFuel
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Liquid Water,metron:ObservationLiquidWater
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Liquid Water,metron:ObservationLiquidWater
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Liquid Water,metron:ObservationLiquidWater
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Liquid Water,metron:ObservationLiquidWater
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Liquid Water,metron:ObservationLiquidWater
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Liquid Water,metron:ObservationLiquidWater
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Liquid Water,metron:ObservationLiquidWater
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Liquid Water,metron:ObservationLiquidWater
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Liquid Water,metron:ObservationLiquidWater
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Liquid Water,metron:ObservationLiquidWater
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Liquid Water,metron:ObservationLiquidWater
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Liquid Water,metron:ObservationLiquidWater
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Liquid Water,metron:ObservationLiquidWater
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Liquid Water,metron:ObservationLiquidWater
+metron:c6378bad-2ab9-4cb8-98f0-9be1c6ee461d,Water Price,Liquid Water,metron:ObservationLiquidWater
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Liquid Water,metron:ObservationLiquidWater
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Liquid Water,metron:ObservationLiquidWater
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Moist Air,metron:ObservationMoistAir
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Moist Air,metron:ObservationMoistAir
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Moist Air,metron:ObservationMoistAir
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Moist Air,metron:ObservationMoistAir
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Moist Air,metron:ObservationMoistAir
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Moist Air,metron:ObservationMoistAir
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Moist Air,metron:ObservationMoistAir
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Moist Air,metron:ObservationMoistAir
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Moist Air,metron:ObservationMoistAir
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Moist Air,metron:ObservationMoistAir
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Moist Air,metron:ObservationMoistAir
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Moist Air,metron:ObservationMoistAir
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Moist Air,metron:ObservationMoistAir
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Moist Air,metron:ObservationMoistAir
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Moist Air,metron:ObservationMoistAir
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Moist Air,metron:ObservationMoistAir
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,N2,metron:ObservationN2
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,N2,metron:ObservationN2
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,N2,metron:ObservationN2
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,N2,metron:ObservationN2
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,N2,metron:ObservationN2
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,N2,metron:ObservationN2
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,N2,metron:ObservationN2
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,N2,metron:ObservationN2
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,N2,metron:ObservationN2
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,N2,metron:ObservationN2
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,N2,metron:ObservationN2
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,N2,metron:ObservationN2
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,N2,metron:ObservationN2
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,N2,metron:ObservationN2
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,N2,metron:ObservationN2
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,N2,metron:ObservationN2
+metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc,Mass Vapor Quality,N2,metron:ObservationN2
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,NH3,metron:ObservationNH3
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,NH3,metron:ObservationNH3
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,NH3,metron:ObservationNH3
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,NH3,metron:ObservationNH3
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,NH3,metron:ObservationNH3
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,NH3,metron:ObservationNH3
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,NH3,metron:ObservationNH3
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,NH3,metron:ObservationNH3
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,NH3,metron:ObservationNH3
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,NH3,metron:ObservationNH3
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,NH3,metron:ObservationNH3
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,NH3,metron:ObservationNH3
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,NH3,metron:ObservationNH3
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,NH3,metron:ObservationNH3
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,NH3,metron:ObservationNH3
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,NH3,metron:ObservationNH3
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Natural Gas,metron:ObservationNaturalGas
+metron:4454232c-36bc-4320-ac20-fe5aa85c0530,Internal Energy,Natural Gas,metron:ObservationNaturalGas
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Natural Gas,metron:ObservationNaturalGas
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,Natural Gas,metron:ObservationNaturalGas
+metron:01d0171c-3701-4560-ab6e-728ba7c7520a,Massic Higher Heating Value,Natural Gas,metron:ObservationNaturalGas
+metron:348981f7-8101-4419-a765-864650701a4e,Massic Lower Heating Value,Natural Gas,metron:ObservationNaturalGas
+metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564,Volumic Higher Heating Value,Natural Gas,metron:ObservationNaturalGas
+metron:a0026121-a270-4f66-9a5c-d293219f6a36,Volumic Lower Heating Value,Natural Gas,metron:ObservationNaturalGas
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,Natural Gas,metron:ObservationNaturalGas
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Natural Gas,metron:ObservationNaturalGas
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,Natural Gas,metron:ObservationNaturalGas
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Natural Gas,metron:ObservationNaturalGas
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,Natural Gas,metron:ObservationNaturalGas
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Natural Gas,metron:ObservationNaturalGas
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Natural Gas,metron:ObservationNaturalGas
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,Natural Gas,metron:ObservationNaturalGas
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Natural Gas,metron:ObservationNaturalGas
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Natural Gas,metron:ObservationNaturalGas
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Natural Gas,metron:ObservationNaturalGas
+metron:5034b152-b101-4025-92f6-94735cbf7fd3,Natural Gas Price,Natural Gas,metron:ObservationNaturalGas
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Natural Gas,metron:ObservationNaturalGas
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Natural Gas,metron:ObservationNaturalGas
+metron:e367c61f-c607-4fa3-a1db-9e848c00c8ba,Mass of CO2 equivalent per Unit Of Gas Energy (LHV),Natural Gas,metron:ObservationNaturalGas
+metron:295664c1-b6c3-4627-ada7-beb6d2253a48,Mass of CO2 equivalent,Natural Gas,metron:ObservationNaturalGas
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,O2,metron:ObservationO2
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,O2,metron:ObservationO2
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,O2,metron:ObservationO2
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,O2,metron:ObservationO2
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,O2,metron:ObservationO2
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,O2,metron:ObservationO2
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,O2,metron:ObservationO2
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,O2,metron:ObservationO2
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,O2,metron:ObservationO2
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,O2,metron:ObservationO2
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,O2,metron:ObservationO2
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,O2,metron:ObservationO2
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,O2,metron:ObservationO2
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,O2,metron:ObservationO2
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,O2,metron:ObservationO2
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,O2,metron:ObservationO2
+metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc,Mass Vapor Quality,O2,metron:ObservationO2
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Oil,metron:ObservationOil
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Oil,metron:ObservationOil
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,Oil,metron:ObservationOil
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Oil,metron:ObservationOil
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Oil,metron:ObservationOil
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Oil,metron:ObservationOil
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Oil,metron:ObservationOil
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Oil,metron:ObservationOil
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,Oil,metron:ObservationOil
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Oil,metron:ObservationOil
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Oil,metron:ObservationOil
+metron:4454232c-36bc-4320-ac20-fe5aa85c0530,Internal Energy,Oil,metron:ObservationOil
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,Oil,metron:ObservationOil
+metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9,Entropy,Oil,metron:ObservationOil
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Oil,metron:ObservationOil
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,Oil,metron:ObservationOil
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Oil,metron:ObservationOil
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Oil,metron:ObservationOil
+metron:01d0171c-3701-4560-ab6e-728ba7c7520a,Massic Higher Heating Value,Oil,metron:ObservationOil
+metron:348981f7-8101-4419-a765-864650701a4e,Massic Lower Heating Value,Oil,metron:ObservationOil
+metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564,Volumic Higher Heating Value,Oil,metron:ObservationOil
+metron:a0026121-a270-4f66-9a5c-d293219f6a36,Volumic Lower Heating Value,Oil,metron:ObservationOil
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,Oil,metron:ObservationOil
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Oil,metron:ObservationOil
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Oil,metron:ObservationOil
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Oil,metron:ObservationOil
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Oil,metron:ObservationOil
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Pellet,metron:ObservationPellet
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,Pellet,metron:ObservationPellet
+metron:01d0171c-3701-4560-ab6e-728ba7c7520a,Massic Higher Heating Value,Pellet,metron:ObservationPellet
+metron:348981f7-8101-4419-a765-864650701a4e,Massic Lower Heating Value,Pellet,metron:ObservationPellet
+metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564,Volumic Higher Heating Value,Pellet,metron:ObservationPellet
+metron:a0026121-a270-4f66-9a5c-d293219f6a36,Volumic Lower Heating Value,Pellet,metron:ObservationPellet
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,Pellet,metron:ObservationPellet
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Pellet,metron:ObservationPellet
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,Pellet,metron:ObservationPellet
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Pellet,metron:ObservationPellet
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,Pellet,metron:ObservationPellet
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Pellet,metron:ObservationPellet
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Pellet,metron:ObservationPellet
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,Pellet,metron:ObservationPellet
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Pellet,metron:ObservationPellet
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Pellet,metron:ObservationPellet
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Pellet,metron:ObservationPellet
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Pellet,metron:ObservationPellet
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Pellet,metron:ObservationPellet
+metron:601791f2-594c-459b-9cb3-f49e40f7f2b4,Unit Price,Piece Production,metron:ObservationPieceProduction
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Piece Production,metron:ObservationPieceProduction
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Piece Production,metron:ObservationPieceProduction
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Piece Production,metron:ObservationPieceProduction
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:4454232c-36bc-4320-ac20-fe5aa85c0530,Internal Energy,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9,Entropy,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Refrigerant Fluid,metron:ObservationRefrigerantFluid
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Solid Production,metron:ObservationSolidProduction
+metron:601791f2-594c-459b-9cb3-f49e40f7f2b4,Unit Price,Solid Production,metron:ObservationSolidProduction
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Solid Production,metron:ObservationSolidProduction
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Solid Production,metron:ObservationSolidProduction
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Solid Production,metron:ObservationSolidProduction
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Steam,metron:ObservationSteam
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,Steam,metron:ObservationSteam
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,Steam,metron:ObservationSteam
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,Steam,metron:ObservationSteam
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,Steam,metron:ObservationSteam
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Steam,metron:ObservationSteam
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,Steam,metron:ObservationSteam
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,Steam,metron:ObservationSteam
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Steam,metron:ObservationSteam
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Steam,metron:ObservationSteam
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,Steam,metron:ObservationSteam
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,Steam,metron:ObservationSteam
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,Steam,metron:ObservationSteam
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,Steam,metron:ObservationSteam
+metron:3f49d077-3002-422f-81f8-14e793518171,Mass Steam Price,Steam,metron:ObservationSteam
+metron:fec6f07e-77f5-4219-9b2b-19644308b550,Volume Steam Price,Steam,metron:ObservationSteam
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Steam,metron:ObservationSteam
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Steam,metron:ObservationSteam
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,Water And Glycol,metron:ObservationWaterAndGlycol
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,Water And Glycol,metron:ObservationWaterAndGlycol
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,Water And Glycol,metron:ObservationWaterAndGlycol
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,Water And Glycol,metron:ObservationWaterAndGlycol
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,Water And Glycol,metron:ObservationWaterAndGlycol
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,Water And Glycol,metron:ObservationWaterAndGlycol

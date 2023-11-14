@@ -1,0 +1,26 @@
+observation_type_clean,observation_type_str
+HFC-123,metron:ObservationHFC123
+R134A,metron:ObservationR134A
+R404A,metron:ObservationR404A
+R407C,metron:ObservationR407C
+R410A,metron:ObservationR410A
+Air,metron:ObservationAir
+Ar,metron:ObservationAr
+CO2,metron:ObservationCO2
+Coal,metron:ObservationCoal
+Electricity,metron:ObservationElectricity
+Exhaust Gas,metron:ObservationExhaustGas
+Fuel,metron:ObservationFuel
+Liquid Water,metron:ObservationLiquidWater
+Moist Air,metron:ObservationMoistAir
+N2,metron:ObservationN2
+NH3,metron:ObservationNH3
+Natural Gas,metron:ObservationNaturalGas
+O2,metron:ObservationO2
+Oil,metron:ObservationOil
+Pellet,metron:ObservationPellet
+Piece Production,metron:ObservationPieceProduction
+Refrigerant Fluid,metron:ObservationRefrigerantFluid
+Solid Production,metron:ObservationSolidProduction
+Steam,metron:ObservationSteam
+Water And Glycol,metron:ObservationWaterAndGlycol

@@ -1,0 +1,780 @@
+any_fluid_str,fluid_label,property_label,quantity_kind_str
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:95932987-8a0e-4484-a522-ca1924e84f7e,Combustible,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Electricity,Electricity,Electrical Current,metron:dacab606-3b31-48b3-9fac-2e52ad11508b
+metron:Electricity,Electricity,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:Electricity,Electricity,Power Factor,metron:13841cc6-8be4-4227-b56e-924f8a1d2820
+metron:Electricity,Electricity,Mass of CO2 equivalent,metron:295664c1-b6c3-4627-ada7-beb6d2253a48
+metron:Electricity,Electricity,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Electricity,Electricity,Voltage,metron:99b3e810-72d8-4631-8c9b-a217b92f8600
+metron:Electricity,Electricity,Apparent Power,metron:eb66ec40-2811-466c-aeec-f7ee68039be4
+metron:Electricity,Electricity,Reactive Power,metron:3078ec4d-3747-4a5e-b7f8-73e767912846
+metron:Electricity,Electricity,Apparent Energy,metron:84b79a76-d9db-49fd-b413-9f3500d3ea12
+metron:Electricity,Electricity,Reactive Energy,metron:9ee2a6d4-0ec7-4af3-bd2e-a577a39e3dd7
+metron:Electricity,Electricity,Active Power,metron:1d94e168-8232-431f-8083-1cebe63ec2be
+metron:Electricity,Electricity,Active Energy,metron:7deea234-e5d9-4368-af7d-ad115c196ba9
+metron:Electricity,Electricity,Frequency,metron:774037ec-aa65-4784-86f2-4a92eed91b1c
+metron:Electricity,Electricity,Electricity Price,metron:0f7300c5-3d75-4cf0-b1e0-19ba304bb5ee
+metron:Electricity,Electricity,Electric Charge,metron:3ea518fd-6d00-44e5-b9b3-db945a156774
+metron:Electricity,Electricity,Electrical Conductance,metron:420ffb58-e20a-4103-a439-e0cba37561da
+metron:Electricity,Electricity,Electrical Conductivity,metron:fb2c606a-ff27-4807-a7e9-b40d877daee6
+metron:Electricity,Electricity,Electrical Resistance,metron:c063390d-172e-4290-b892-1d7e7e6140c4
+metron:Electricity,Electricity,Electrical Energy Cost,metron:65c3d59a-535c-43f8-9f74-85a887c74e36
+metron:Electricity,Electricity,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Electricity,Electricity,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Electricity,Electricity,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Electricity,Electricity,Mass of CO2 equivalent per Unit Of Electrical Energy,metron:69fcd0f9-1b96-4d95-affb-97fe0f2f1e6f
+metron:74d52195-e022-4273-bb10-e99910e63b47,Production,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:74d52195-e022-4273-bb10-e99910e63b47,Production,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:74d52195-e022-4273-bb10-e99910e63b47,Production,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:21e676b4-1665-41e2-bbd3-d6cfd4caf75c,Thermal Energy Vector,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:FluidConsumed,Fluid Consumed,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:FluidConsumed,Fluid Consumed,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:FluidConsumed,Fluid Consumed,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Fuel,Fuel,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Fuel,Fuel,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:Fuel,Fuel,Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:Fuel,Fuel,Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:Fuel,Fuel,Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:Fuel,Fuel,Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:Fuel,Fuel,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:Fuel,Fuel,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Fuel,Fuel,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:Fuel,Fuel,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Fuel,Fuel,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:Fuel,Fuel,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Fuel,Fuel,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Fuel,Fuel,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:Fuel,Fuel,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Fuel,Fuel,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Fuel,Fuel,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Fuel,Fuel,Volume Fuel Price,metron:5c3ef9ba-4257-4151-b7f1-d901334fdb52
+metron:Fuel,Fuel,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Fuel,Fuel,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Internal Energy,metron:4454232c-36bc-4320-ac20-fe5aa85c0530
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:f21dcd13-11db-4f43-b9ce-df1fd7c375b2,Gas (Combustible),Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Oil,Oil,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Oil,Oil,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Oil,Oil,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:Oil,Oil,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Oil,Oil,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Oil,Oil,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:Oil,Oil,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Oil,Oil,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:Oil,Oil,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:Oil,Oil,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:Oil,Oil,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Oil,Oil,Internal Energy,metron:4454232c-36bc-4320-ac20-fe5aa85c0530
+metron:Oil,Oil,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:Oil,Oil,Entropy,metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9
+metron:Oil,Oil,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Oil,Oil,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:Oil,Oil,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:Oil,Oil,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:Oil,Oil,Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:Oil,Oil,Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:Oil,Oil,Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:Oil,Oil,Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:Oil,Oil,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:Oil,Oil,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Oil,Oil,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Oil,Oil,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Oil,Oil,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:6d6f2724-74aa-43a3-adaa-d21a264e460f,Solid Combustible,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Electrical Current,metron:dacab606-3b31-48b3-9fac-2e52ad11508b
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Power Factor,metron:13841cc6-8be4-4227-b56e-924f8a1d2820
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Mass of CO2 equivalent,metron:295664c1-b6c3-4627-ada7-beb6d2253a48
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Voltage,metron:99b3e810-72d8-4631-8c9b-a217b92f8600
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Apparent Power,metron:eb66ec40-2811-466c-aeec-f7ee68039be4
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Reactive Power,metron:3078ec4d-3747-4a5e-b7f8-73e767912846
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Apparent Energy,metron:84b79a76-d9db-49fd-b413-9f3500d3ea12
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Reactive Energy,metron:9ee2a6d4-0ec7-4af3-bd2e-a577a39e3dd7
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Active Power,metron:1d94e168-8232-431f-8083-1cebe63ec2be
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Active Energy,metron:7deea234-e5d9-4368-af7d-ad115c196ba9
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Frequency,metron:774037ec-aa65-4784-86f2-4a92eed91b1c
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Electricity Price,metron:0f7300c5-3d75-4cf0-b1e0-19ba304bb5ee
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Electric Charge,metron:3ea518fd-6d00-44e5-b9b3-db945a156774
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Electrical Conductance,metron:420ffb58-e20a-4103-a439-e0cba37561da
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Electrical Conductivity,metron:fb2c606a-ff27-4807-a7e9-b40d877daee6
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Electrical Resistance,metron:c063390d-172e-4290-b892-1d7e7e6140c4
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Electrical Energy Cost,metron:65c3d59a-535c-43f8-9f74-85a887c74e36
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:46eb3097-0ff1-4769-be25-b223ecdb8778,Alternative Current,Mass of CO2 equivalent per Unit Of Electrical Energy,metron:69fcd0f9-1b96-4d95-affb-97fe0f2f1e6f
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Electrical Current,metron:dacab606-3b31-48b3-9fac-2e52ad11508b
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Power Factor,metron:13841cc6-8be4-4227-b56e-924f8a1d2820
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Mass of CO2 equivalent,metron:295664c1-b6c3-4627-ada7-beb6d2253a48
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Voltage,metron:99b3e810-72d8-4631-8c9b-a217b92f8600
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Apparent Power,metron:eb66ec40-2811-466c-aeec-f7ee68039be4
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Reactive Power,metron:3078ec4d-3747-4a5e-b7f8-73e767912846
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Apparent Energy,metron:84b79a76-d9db-49fd-b413-9f3500d3ea12
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Reactive Energy,metron:9ee2a6d4-0ec7-4af3-bd2e-a577a39e3dd7
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Active Power,metron:1d94e168-8232-431f-8083-1cebe63ec2be
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Active Energy,metron:7deea234-e5d9-4368-af7d-ad115c196ba9
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Frequency,metron:774037ec-aa65-4784-86f2-4a92eed91b1c
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Electricity Price,metron:0f7300c5-3d75-4cf0-b1e0-19ba304bb5ee
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Electric Charge,metron:3ea518fd-6d00-44e5-b9b3-db945a156774
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Electrical Conductance,metron:420ffb58-e20a-4103-a439-e0cba37561da
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Electrical Conductivity,metron:fb2c606a-ff27-4807-a7e9-b40d877daee6
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Electrical Resistance,metron:c063390d-172e-4290-b892-1d7e7e6140c4
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Electrical Energy Cost,metron:65c3d59a-535c-43f8-9f74-85a887c74e36
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:01c2950d-5804-4dd8-a221-6728724d53c4,Direct Current,Mass of CO2 equivalent per Unit Of Electrical Energy,metron:69fcd0f9-1b96-4d95-affb-97fe0f2f1e6f
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:7ea4b3a0-3bab-45b5-bb2b-045836963141,Gas Production,Mass Vapor Quality,metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc
+metron:129f8642-40f3-4bbb-bc48-243f6c696c75,Liquid Production,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:129f8642-40f3-4bbb-bc48-243f6c696c75,Liquid Production,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:129f8642-40f3-4bbb-bc48-243f6c696c75,Liquid Production,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:129f8642-40f3-4bbb-bc48-243f6c696c75,Liquid Production,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:129f8642-40f3-4bbb-bc48-243f6c696c75,Liquid Production,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:129f8642-40f3-4bbb-bc48-243f6c696c75,Liquid Production,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:d89bf757-d6c4-468c-af50-b757a9fed460,Piece Production,Unit Price,metron:601791f2-594c-459b-9cb3-f49e40f7f2b4
+metron:d89bf757-d6c4-468c-af50-b757a9fed460,Piece Production,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:d89bf757-d6c4-468c-af50-b757a9fed460,Piece Production,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:d89bf757-d6c4-468c-af50-b757a9fed460,Piece Production,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:395ec089-d68d-41ea-9fce-e2280613100c,Solid Production,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:395ec089-d68d-41ea-9fce-e2280613100c,Solid Production,Unit Price,metron:601791f2-594c-459b-9cb3-f49e40f7f2b4
+metron:395ec089-d68d-41ea-9fce-e2280613100c,Solid Production,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:395ec089-d68d-41ea-9fce-e2280613100c,Solid Production,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:395ec089-d68d-41ea-9fce-e2280613100c,Solid Production,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:a9eff6fb-79bb-4e9e-a899-bb763f2d9f0d,Gas Thermal Energy Vector,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:3c791d57-f28e-4777-aa9a-8ede3f19c49d,Liquid Thermal Energy Vector,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:cbfa6db4_1d0d_4aa0_99cc_69f54c6a10a9,Biphasic Thermal Energy Vector,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Air,Air,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Air,Air,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:Air,Air,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Air,Air,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:Air,Air,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:Air,Air,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Air,Air,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:Air,Air,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:Air,Air,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Air,Air,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Air,Air,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Air,Air,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Air,Air,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Air,Air,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Air,Air,Relative Humidity,metron:6aa8796a-5ad7-4307-a0e5-94729ed0eb66
+metron:Air,Air,Dew Point,metron:ea00f641-f49f-4642-9003-5699574955c1
+metron:Air,Air,Wet Bulb Temperature,metron:44c45b88-ecb4-430f-a241-495f6b60bf9d
+metron:Air,Air,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Air,Air,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Coal,Coal,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Coal,Coal,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:Coal,Coal,Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:Coal,Coal,Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:Coal,Coal,Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:Coal,Coal,Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:Coal,Coal,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:Coal,Coal,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Coal,Coal,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:Coal,Coal,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Coal,Coal,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:Coal,Coal,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Coal,Coal,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Coal,Coal,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:Coal,Coal,Coal Price,metron:ea89255a-8b10-45ec-8131-d23b67277fdd
+metron:Coal,Coal,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Coal,Coal,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Coal,Coal,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Coal,Coal,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Coal,Coal,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Liquid_Water,Liquid Water,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Liquid_Water,Liquid Water,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:Liquid_Water,Liquid Water,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Liquid_Water,Liquid Water,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:Liquid_Water,Liquid Water,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:Liquid_Water,Liquid Water,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Liquid_Water,Liquid Water,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:Liquid_Water,Liquid Water,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:Liquid_Water,Liquid Water,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Liquid_Water,Liquid Water,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Liquid_Water,Liquid Water,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Liquid_Water,Liquid Water,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Liquid_Water,Liquid Water,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Liquid_Water,Liquid Water,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Liquid_Water,Liquid Water,Water Price,metron:c6378bad-2ab9-4cb8-98f0-9be1c6ee461d
+metron:Liquid_Water,Liquid Water,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Liquid_Water,Liquid Water,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Natural_Gas,Natural Gas,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Natural_Gas,Natural Gas,Internal Energy,metron:4454232c-36bc-4320-ac20-fe5aa85c0530
+metron:Natural_Gas,Natural Gas,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Natural_Gas,Natural Gas,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:Natural_Gas,Natural Gas,Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:Natural_Gas,Natural Gas,Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:Natural_Gas,Natural Gas,Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:Natural_Gas,Natural Gas,Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:Natural_Gas,Natural Gas,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:Natural_Gas,Natural Gas,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Natural_Gas,Natural Gas,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:Natural_Gas,Natural Gas,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Natural_Gas,Natural Gas,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:Natural_Gas,Natural Gas,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Natural_Gas,Natural Gas,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Natural_Gas,Natural Gas,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:Natural_Gas,Natural Gas,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Natural_Gas,Natural Gas,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Natural_Gas,Natural Gas,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Natural_Gas,Natural Gas,Natural Gas Price,metron:5034b152-b101-4025-92f6-94735cbf7fd3
+metron:Natural_Gas,Natural Gas,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Natural_Gas,Natural Gas,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Natural_Gas,Natural Gas,Mass of CO2 equivalent per Unit Of Gas Energy (LHV),metron:e367c61f-c607-4fa3-a1db-9e848c00c8ba
+metron:Natural_Gas,Natural Gas,Mass of CO2 equivalent,metron:295664c1-b6c3-4627-ada7-beb6d2253a48
+metron:Pellet,Pellet,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Pellet,Pellet,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:Pellet,Pellet,Massic Higher Heating Value,metron:01d0171c-3701-4560-ab6e-728ba7c7520a
+metron:Pellet,Pellet,Massic Lower Heating Value,metron:348981f7-8101-4419-a765-864650701a4e
+metron:Pellet,Pellet,Volumic Higher Heating Value,metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564
+metron:Pellet,Pellet,Volumic Lower Heating Value,metron:a0026121-a270-4f66-9a5c-d293219f6a36
+metron:Pellet,Pellet,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:Pellet,Pellet,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Pellet,Pellet,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:Pellet,Pellet,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Pellet,Pellet,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:Pellet,Pellet,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Pellet,Pellet,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Pellet,Pellet,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:Pellet,Pellet,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Pellet,Pellet,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Pellet,Pellet,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Pellet,Pellet,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Pellet,Pellet,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:CO2,CO2,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:CO2,CO2,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:CO2,CO2,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:CO2,CO2,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:CO2,CO2,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:CO2,CO2,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:CO2,CO2,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:CO2,CO2,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:CO2,CO2,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:CO2,CO2,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:CO2,CO2,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:CO2,CO2,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:CO2,CO2,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:CO2,CO2,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:CO2,CO2,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:CO2,CO2,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:NH3,NH3,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:NH3,NH3,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:NH3,NH3,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:NH3,NH3,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:NH3,NH3,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:NH3,NH3,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:NH3,NH3,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:NH3,NH3,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:NH3,NH3,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:NH3,NH3,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:NH3,NH3,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:NH3,NH3,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:NH3,NH3,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:NH3,NH3,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:NH3,NH3,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:NH3,NH3,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:R404A,R404A Liquid,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:R404A,R404A Liquid,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:R404A,R404A Liquid,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:R404A,R404A Liquid,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:R404A,R404A Liquid,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:R404A,R404A Liquid,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:R404A,R404A Liquid,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:R404A,R404A Liquid,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:R404A,R404A Liquid,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:R404A,R404A Liquid,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:R404A,R404A Liquid,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:R404A,R404A Liquid,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:R404A,R404A Liquid,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:R404A,R404A Liquid,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:R404A,R404A Liquid,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:R404A,R404A Liquid,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Steam,Steam,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Steam,Steam,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:Steam,Steam,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Steam,Steam,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:Steam,Steam,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:Steam,Steam,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Steam,Steam,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:Steam,Steam,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:Steam,Steam,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Steam,Steam,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Steam,Steam,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Steam,Steam,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Steam,Steam,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Steam,Steam,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Steam,Steam,Mass Steam Price,metron:3f49d077-3002-422f-81f8-14e793518171
+metron:Steam,Steam,Volume Steam Price,metron:fec6f07e-77f5-4219-9b2b-19644308b550
+metron:Steam,Steam,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Steam,Steam,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Ar,Ar,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Ar,Ar,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:Ar,Ar,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Ar,Ar,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:Ar,Ar,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:Ar,Ar,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Ar,Ar,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:Ar,Ar,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:Ar,Ar,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Ar,Ar,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Ar,Ar,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Ar,Ar,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Ar,Ar,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Ar,Ar,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Ar,Ar,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Ar,Ar,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Ar,Ar,Mass Vapor Quality,metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc
+metron:N2,N2,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:N2,N2,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:N2,N2,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:N2,N2,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:N2,N2,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:N2,N2,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:N2,N2,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:N2,N2,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:N2,N2,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:N2,N2,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:N2,N2,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:N2,N2,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:N2,N2,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:N2,N2,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:N2,N2,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:N2,N2,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:N2,N2,Mass Vapor Quality,metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc
+metron:O2,O2,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:O2,O2,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:O2,O2,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:O2,O2,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:O2,O2,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:O2,O2,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:O2,O2,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:O2,O2,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:O2,O2,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:O2,O2,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:O2,O2,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:O2,O2,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:O2,O2,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:O2,O2,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:O2,O2,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:O2,O2,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:O2,O2,Mass Vapor Quality,metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc
+metron:Water_And_Glycol,Water And Glycol,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Water_And_Glycol,Water And Glycol,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Water_And_Glycol,Water And Glycol,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Water_And_Glycol,Water And Glycol,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Water_And_Glycol,Water And Glycol,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Water_And_Glycol,Water And Glycol,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Moist_Air,Moist Air,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Moist_Air,Moist Air,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:Moist_Air,Moist Air,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Moist_Air,Moist Air,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:Moist_Air,Moist Air,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:Moist_Air,Moist Air,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Moist_Air,Moist Air,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:Moist_Air,Moist Air,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:Moist_Air,Moist Air,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Moist_Air,Moist Air,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Moist_Air,Moist Air,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Moist_Air,Moist Air,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Moist_Air,Moist Air,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Moist_Air,Moist Air,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Moist_Air,Moist Air,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Moist_Air,Moist Air,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:dd5c49f1_7eae_4a64_a6b7_2fcbb3f4033e,R-134A Gas,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,CO Concentration,metron:a5095b7b-e7fa-409d-94dd-aeb1101aecd8
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,NOx Concentration,metron:d8ac6b95-24a8-4a58-8cf7-0c344f147aab
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Particules concentration (<2.5µm),metron:de2af95e-d605-46e4-8126-c46d9659d95b
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Particles concentration (<10µm),metron:7f16d9f1-6b08-4282-9454-c02991d742e3
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Oxygen Concentration,metron:86331089-b5e1-4c34-b891-fa3c926d3346
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:a256d606_bc40_4f5a_813d_d6ba636d259b,Exhaust Gas,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:e5294870_45d4_4515_bf06_946b0f52622a,R410A Gas,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:4dcf0e28_0c71_4571_abea_9733f550b565,R407C Gas,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:e10e825e_334d_4293_a0fe_607bf362329c,R404A Gas,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:351c1c89_3bb4_4e1c_82d8_a32e1a0be3d7,HFC-123 Gas,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:R407C,R407C Liquid,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:R407C,R407C Liquid,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:R407C,R407C Liquid,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:R407C,R407C Liquid,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:R407C,R407C Liquid,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:R407C,R407C Liquid,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:R407C,R407C Liquid,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:R407C,R407C Liquid,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:R407C,R407C Liquid,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:R407C,R407C Liquid,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:R407C,R407C Liquid,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:R407C,R407C Liquid,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:R407C,R407C Liquid,Internal Energy,metron:4454232c-36bc-4320-ac20-fe5aa85c0530
+metron:R407C,R407C Liquid,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:R407C,R407C Liquid,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:R407C,R407C Liquid,Entropy,metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9
+metron:R407C,R407C Liquid,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:R407C,R407C Liquid,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:R407C,R407C Liquid,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:R407C,R407C Liquid,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:R407C,R407C Liquid,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:R407C,R407C Liquid,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:R407C,R407C Liquid,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:R410A,R410A Liquid,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:R410A,R410A Liquid,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:R410A,R410A Liquid,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:R410A,R410A Liquid,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:R410A,R410A Liquid,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:R410A,R410A Liquid,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:R410A,R410A Liquid,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:R410A,R410A Liquid,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:R410A,R410A Liquid,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:R410A,R410A Liquid,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:R410A,R410A Liquid,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:R410A,R410A Liquid,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:R410A,R410A Liquid,Internal Energy,metron:4454232c-36bc-4320-ac20-fe5aa85c0530
+metron:R410A,R410A Liquid,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:R410A,R410A Liquid,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:R410A,R410A Liquid,Entropy,metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9
+metron:R410A,R410A Liquid,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:R410A,R410A Liquid,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:R410A,R410A Liquid,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:R410A,R410A Liquid,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:R410A,R410A Liquid,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:R410A,R410A Liquid,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:R410A,R410A Liquid,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:Refrigerant_Fluid,Refrigerant Fluid,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:Refrigerant_Fluid,Refrigerant Fluid,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:Refrigerant_Fluid,Refrigerant Fluid,Specific Enthalpy,metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2
+metron:Refrigerant_Fluid,Refrigerant Fluid,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:Refrigerant_Fluid,Refrigerant Fluid,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:Refrigerant_Fluid,Refrigerant Fluid,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:Refrigerant_Fluid,Refrigerant Fluid,Power,metron:06865900-ff13-490f-92ab-481cc94e68ca
+metron:Refrigerant_Fluid,Refrigerant Fluid,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:Refrigerant_Fluid,Refrigerant Fluid,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:Refrigerant_Fluid,Refrigerant Fluid,Heat Capacity,metron:31a862c0-3f76-4c04-99f9-33d75b55457b
+metron:Refrigerant_Fluid,Refrigerant Fluid,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:Refrigerant_Fluid,Refrigerant Fluid,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:Refrigerant_Fluid,Refrigerant Fluid,Internal Energy,metron:4454232c-36bc-4320-ac20-fe5aa85c0530
+metron:Refrigerant_Fluid,Refrigerant Fluid,Volumetric Mass Density,metron:593f45d9-cb81-428b-92b3-c73899c2e45d
+metron:Refrigerant_Fluid,Refrigerant Fluid,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:Refrigerant_Fluid,Refrigerant Fluid,Entropy,metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9
+metron:Refrigerant_Fluid,Refrigerant Fluid,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:Refrigerant_Fluid,Refrigerant Fluid,Specific Entropy,metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8
+metron:Refrigerant_Fluid,Refrigerant Fluid,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:Refrigerant_Fluid,Refrigerant Fluid,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:Refrigerant_Fluid,Refrigerant Fluid,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:Refrigerant_Fluid,Refrigerant Fluid,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:Refrigerant_Fluid,Refrigerant Fluid,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:6e3c1f86-bec9-4220-805e-3f659dd29e73,HFC-123 Liquid,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:5ea342d4-ed27-4f06-a84f-4b8bc56f8896,R-134A Liquid,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:9a2c767d_d1f4_476f_8682_4ff1d5b6848e,R404A Biphasic,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:a7dc6b5f_2007_4352_a659_0442dc90fe6e,R407C Biphasic,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:859d2a53_61df_44f4_85c1_61c22a413a9e,R410A Biphasic,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:74e2aba8_8b5f_4364_9dce_7f4cd6717b8c,HFC-123 Biphasic,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Mass Flowrate,metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Thermal Resistivity,metron:d7aa287d-731e-485c-87a2-b56c796d214f
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Pressure,metron:e9f388d3-ef7c-499e-986f-4e3cada923eb
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Thermal Transmittance,metron:0098b191-8192-4be0-b02f-ce4d4790d432
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Thermal Conductance,metron:03e111ae-726e-45a3-a86a-4b83b08d51cc
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Temperature,metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Enthalpy,metron:17db3b0c-ab50-4bdd-a50b-b98096082690
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Thermal Conductivity,metron:31cdd57c-5651-4f91-81f0-03359e209930
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Volumetric Flowrate,metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Density,metron:9dde2be3-c116-420b-8f80-69155539c7ae
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Energy,metron:78e99979-1f6c-4218-85e7-b71534933383
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Energy Cost,metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Global Energy Cost,metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Percentage,metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Volume,metron:fe3de99d-313d-489b-b348-b6640fe86f2d
+metron:73713f34_5b5c_46be_b490_3a9f732656e2,R-134A Biphasic,Mass,metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d

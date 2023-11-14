@@ -1,0 +1,113 @@
+{
+    "data": [
+        {
+            "ID": "abcb029f-9562-46db-bfc9-b3fb00b60e2e",
+            "firstName": "Anna",
+            "lastName": "Smith",
+            "nickname": "Annie",
+            "parentOf": [
+                {"ID": "4b3df73f-0174-4c20-b82c-89a1466689cb", "name": "John Smith"},
+                {"ID": "801225df-d5e1-4b01-adae-0cca392608da", "name": "Susan Smith"}
+            ],
+            "childOf": [{"ID": "94c245b1-3be2-4eda-8737-e559f8cac2e5", "name": "Lisa Smith"}],
+            "friendOf": []
+        },
+        {
+            "ID": "690d15ae-0f8c-4645-81b4-8a9eee2f2d4f",
+            "firstName": "Bob",
+            "lastName": "Smith",
+            "nickname": "Bobby",
+            "parentOf": [],
+            "childOf": [{"ID": "4b3df73f-0174-4c20-b82c-89a1466689cb", "name": "John Smith"}],
+            "friendOf": []
+        },
+        {
+            "ID": "f5ad3d6f-ea7b-4fb6-a5f3-40103fa2668f",
+            "firstName": "Brian",
+            "lastName": "Wilson",
+            "nickname": "Bri",
+            "parentOf": [
+                {"ID": "71823d62-0e66-47ca-a572-8349d8e21fe7", "name": "Liam Wilson"},
+                {"ID": "d4b31401-9661-4f21-a751-f62acd745835", "name": "Emma Wilson"}
+            ],
+            "childOf": [{"ID": "12d0869c-840a-4a2c-8ea2-c4bdd0b91592", "name": "Jessica Wilson"}],
+            "friendOf": []
+        },
+        {
+            "ID": "b3d0dfce-af08-4633-8ed8-5cae89dd8a1b",
+            "firstName": "Clara",
+            "lastName": "Duvall",
+            "nickname": "Clary",
+            "parentOf": [
+                {"ID": "3d660778-d473-4042-8670-95d7451fa32c", "name": "Peter Smith"},
+                {"ID": "3d4320e2-83e2-4fde-8776-862d1fc07680", "name": "Mary Smith"}
+            ],
+            "childOf": [{"ID": "4b3df73f-0174-4c20-b82c-89a1466689cb", "name": "John Smith"}],
+            "friendOf": []
+        },
+        {
+            "ID": "f03b9fcc-e708-482a-9344-4f8e2da2930b",
+            "firstName": "David",
+            "lastName": "White",
+            "nickname": "Dave",
+            "parentOf": [
+                {"ID": "245d82c1-b1b8-4a65-8ad4-0bd60f8bba8e", "name": "Mia White"},
+                {"ID": "13b7c938-8f3b-4c2f-a6fb-3470dddca42b", "name": "Jake White"}
+            ],
+            "childOf": [{"ID": "fffd93c7-0042-4605-b1cb-a68a23074ee1", "name": "Rebecca White"}],
+            "friendOf": []
+        },
+        {
+            "ID": "223bae59-f829-401b-a985-08b37d6eb1c7",
+            "firstName": "Ella",
+            "lastName": "Brown",
+            "nickname": "Ellie",
+            "parentOf": [
+                {"ID": "f5337bc9-2a8b-42bf-b481-d50774acbc15", "name": "Sara Brown"},
+                {"ID": "d74ca3da-4d30-4142-9257-24af0fab7f31", "name": "Ian Brown"}
+            ],
+            "childOf": [{"ID": "e708394e-935c-405d-b2a2-6d68a1470d41", "name": "James Brown"}],
+            "friendOf": []
+        },
+        {
+            "ID": "141574ad-be93-449d-9730-469d997d8562",
+            "firstName": "Emily",
+            "lastName": "Stevens",
+            "nickname": "Emmy",
+            "parentOf": [
+                {"ID": "e708394e-935c-405d-b2a2-6d68a1470d41", "name": "James Brown"},
+                {"ID": "1b4326e5-1853-48d1-ad69-ecee0259f2c4", "name": "Rachel Brown"}
+            ],
+            "childOf": [{"ID": "c3e9bab7-afa5-4cc9-a453-3985d992eb0a", "name": "Kate Brown"}],
+            "friendOf": []
+        },
+        {
+            "ID": "d4b31401-9661-4f21-a751-f62acd745835",
+            "firstName": "Emma",
+            "lastName": "Wilson",
+            "nickname": "Emmy",
+            "parentOf": [{"ID": "ddd9d0c1-36c6-4700-8086-ffdf6f1b0130", "name": "Sophie Wilson"}],
+            "childOf": [{"ID": "f5ad3d6f-ea7b-4fb6-a5f3-40103fa2668f", "name": "Brian Wilson"}],
+            "friendOf": []
+        },
+        {
+            "ID": "d89e937b-f903-49f1-afdc-5ffa93b15d15",
+            "firstName": "Eve",
+            "lastName": "Brown",
+            "nickname": "Evie",
+            "parentOf": [],
+            "childOf": [{"ID": "3dbb7473-347a-4f4c-9d6e-07c5cc00324f", "name": "Olivia Brown"}],
+            "friendOf": []
+        },
+        {
+            "ID": "de3eba75-df67-4a4c-8d74-2dc194c21993",
+            "firstName": "Frank",
+            "lastName": "Smith",
+            "nickname": "Frankie",
+            "parentOf": [],
+            "childOf": [{"ID": "801225df-d5e1-4b01-adae-0cca392608da", "name": "Susan Smith"}],
+            "friendOf": []
+        }
+    ],
+    "meta": {"pagination": {"page[size]": 10, "page[number]": 0, "page[total]": 5}}
+}

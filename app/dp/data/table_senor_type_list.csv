@@ -1,0 +1,4 @@
+sensor_type_uuid,sensor_type_label
+metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:57f163ff-4410-423e-9ff3-c46259e23c85,Incremental
+metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity

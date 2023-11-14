@@ -1,0 +1,214 @@
+property_uuid,property_label,sensor_type_uuid,sensor_type_label
+metron:a74131e2-43a5-4075-b6c2-71cbef0a139e,Efficiency,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:b8189618-da45-46a7-983b-f920bcb99dca,Running Hour,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:c2b0e405-c742-46c9-a0ec-5025af502e33,Load,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:13841cc6-8be4-4227-b56e-924f8a1d2820,Power Factor,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:20627de8-9278-40de-9cd2-a0f60fdd4c9f,Loading Hour,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:55fa7684-70d1-463d-b871-e7776187fc44,Run,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:8fb77b20-8ad2-4702-82cc-8941443e0824,Local Distant,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:eb2365ac-6f86-4ace-9709-4888af06274e,Charging Rate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:0b81e56f-f3ee-4673-b3e1-515e44b374e6,Produced Power,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:0bb8c5c4-3a7d-4a75-9553-d2358ab5ada0,State Of Charge,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:98f41b80-992f-4830-ace9-40f9a16481ac,Produced Energy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:c094a2a9-edba-40da-9855-c5bfee821201,Volume Produced,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:eaee52d2-1ab3-487d-8056-2d210af3fdcd,Specific Consumption Volume,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:bf9c5690-572f-43c8-bd9c-562ca375677e,Polytropic Compression Power,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:e1e67df4-5060-467c-8478-8e6017afaf59,Adiabatic Compression Efficiency,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:08d42e3f-b7a0-49e2-82d7-79cd03585f5d,% RLA,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:5c689e94-fdfd-48c6-a2bb-a827bb730c51,Polytropic Compression Efficiency,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:593f45d9-cb81-428b-92b3-c73899c2e45d,Volumetric Mass Density,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:609ad92a-cfc6-4fb5-8f84-7c0a3b5bae26,Motor Efficiency,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:8f14b14c-9c24-46d8-9d6d-886d99b517ed,Logarithmic Temperature,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9340f9ae-7c84-4848-a140-bafd50bc3d06,Performance Indicator,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c2169140-67a7-497f-bc71-abf548cd617b,Idle Running Hour,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:79aacec8-a50e-45a8-9f02-2a720be6ecaa,Idle,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:dacab606-3b31-48b3-9fac-2e52ad11508b,Electrical Current,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:06865900-ff13-490f-92ab-481cc94e68ca,Power,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:295664c1-b6c3-4627-ada7-beb6d2253a48,Mass of CO2 equivalent,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:78e99979-1f6c-4218-85e7-b71534933383,Energy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:99b3e810-72d8-4631-8c9b-a217b92f8600,Voltage,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:3a59736b-c8e3-49a4-895d-82dbc3fbe8d1,Pinch,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:22331f65-3410-46d8-9fdb-12988c6d83d9,Pressure Drop,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9fe1c3f9-f261-432d-9758-4219ab2ab41b,Ready,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a7affe4f-52f2-4a67-b92b-d3c7d865ea2f,Mass Flowrate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:e9f388d3-ef7c-499e-986f-4e3cada923eb,Pressure,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:f02dbf35-a262-4b4b-a7b1-de98952db2a2,Specific Enthalpy,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:fc544821-b695-4b03-b58d-0ed14f3a9e6d,Mass,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:fe3de99d-313d-489b-b348-b6640fe86f2d,Volume,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:03e111ae-726e-45a3-a86a-4b83b08d51cc,Thermal Conductance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:158b78a6-0b66-4a2e-b3b0-ec929af4b93f,Temperature,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:17db3b0c-ab50-4bdd-a50b-b98096082690,Enthalpy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:31a862c0-3f76-4c04-99f9-33d75b55457b,Heat Capacity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:31cdd57c-5651-4f91-81f0-03359e209930,Thermal Conductivity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:42672c70-8cf4-4491-a5fb-f41b84a0b0f6,Volumetric Flowrate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:4454232c-36bc-4320-ac20-fe5aa85c0530,Internal Energy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:9bdd09c5-140b-4f29-9425-fd1e0e863fb9,Entropy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:9dde2be3-c116-420b-8f80-69155539c7ae,Density,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:96d12c21-0f2c-4d9b-8de8-f7adea9e81a8,Specific Entropy,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:6f8d8662-d3c3-4759-8af3-ac415a87a20a,Rotation Speed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:f6d9d883-eb40-4fca-9b9c-ae6cd57d3e27,Level of Fluid,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:a102b6d3-706b-4c55-af48-b4413a8ab0b8,Total Global Horizontal Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a207c3b5-31d9-4fe8-b4b5-e97bf7dcc36e,Wind Gust Speed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a4c050f5-77b6-460c-a02a-7dc7221ae66d,Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:b7275f5f-9161-49b1-b730-425e5959d316,Cloud Coverage,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:b92797cb-3672-4e60-a86e-8a4826a7b621,Direct Normal Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c27a12f2-9a63-4af4-a9be-3954a9d8adea,Diffuse Horizontal Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c38e4d8b-a4b9-4ab3-b898-5c159add29aa,Sun Hours,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:d3cc654e-0145-40da-bc7a-2dfdfb74e17c,Cooling Degree Day,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:d786388c-e2e8-4503-8df8-29a4a4fd59f7,Total Diffuse Horizontal Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:dd224d30-a9fb-48b5-a56d-6fcd6ff20286,Part Of Day,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:e0b6cc8a-4773-400b-86b6-27cfb163ca0d,Precipitation,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:e4a97577-93bf-48a2-b976-99c96682c26c,Visibility,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:ea00f641-f49f-4642-9003-5699574955c1,Dew Point,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:eb4982d9-a2a9-4e5d-934d-526ba817e335,Apparent Temperature,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:f18ac7a5-3834-4d48-8780-38f7acaa0a1a,Total Direct Normal Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:fc547939-2ff0-40b4-8978-25bf6dde6d71,Cloud Coverage High Level,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:fd05e74e-855d-4fc2-b5eb-cd18127202bd,Mean Seal-Level Pressure,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:2543c82c-dcaa-4341-9171-66d5d12f5dda,Heating Degree Day,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:3ab3c0ea-39b3-4142-8226-b0a46a3b58df,Solar Elevation Angle,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:3452e180-8462-4035-9327-42bcd734216f,Global Horizontal Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:410dc287-b9f5-4d59-abf6-1f118483304e,Cloud Coverage Medium Level,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:44c45b88-ecb4-430f-a241-495f6b60bf9d,Wet Bulb Temperature,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:5d26c496-9745-482a-82e4-1ee66cee5f91,Solar Hour Angle,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:59b69d9c-f2e9-4120-a629-7b6e98caed8c,Accumulated Snowfall,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:6aa8796a-5ad7-4307-a0e5-94729ed0eb66,Relative Humidity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:62249a91-b38d-486f-8770-05efb61f7f26,Snow Depth,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:63753ddd-1d5b-4020-8f9b-384b938f7b63,Wind Direction,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:68677671-9739-4866-9f73-9d6edd17eedb,Wind Speed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:754a40bc-c401-4a9b-97ad-6b833470a73e,Cloud Coverage Low Level,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:8370b101-a6b3-4d1c-90fa-59b0fd49061f,Probability of Precipitation,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9eaaa209-fa2c-4634-a4bc-8a8c969e5c7a,Azimuth,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9562feb2-85fd-496e-9349-b8bef217a241,Ozone,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:f382ce8d-7a29-4709-aa75-6f659571c521,Latitude,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:fe8b678e-05e8-4055-8988-cddfc35551da,Longitude,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a5095b7b-e7fa-409d-94dd-aeb1101aecd8,CO Concentration,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:d8ac6b95-24a8-4a58-8cf7-0c344f147aab,NOx Concentration,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:de2af95e-d605-46e4-8126-c46d9659d95b,Particules concentration (<2.5µm),metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:7f16d9f1-6b08-4282-9454-c02991d742e3,Particles concentration (<10µm),metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:86331089-b5e1-4c34-b891-fa3c926d3346,Oxygen Concentration,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:aacd9920-e29f-4394-8a7c-08ac9b95a17b,Ratio Air - Gas,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c1db7506-f778-406e-bd1c-5094905b3682,Door Opening,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:e4921684-3f99-4b3f-9057-6531fa795ac6,Temperature Setpoint,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:2166f851-057c-488f-8735-918077d57e2a,Specific Consumption Mass,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:3878fbaf-3c07-4b13-abf1-78acfcddb910,Percentage Door Opening,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:53540a48-ab63-4d4a-a96a-e017fc6db76f,Furnace Stages,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:dc00a6fe-10a7-48dd-a394-55a8859e157a,Translation Speed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:d7aa287d-731e-485c-87a2-b56c796d214f,Thermal Resistivity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:0098b191-8192-4be0-b02f-ce4d4790d432,Thermal Transmittance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:5f0e167c-2d2b-4cdf-86ed-436287987b65,Outlet Pressure,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:99873cbb-31ad-4d7b-b618-344a1d3c554a,Inlet Pressure,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:af2cae16-e639-4ffc-9bff-c4eecf8275f4,Global Energy Cost,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:2fc70fcb-7b3e-464b-942a-5c5b732a39e1,Consumed Power,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:47ce50fc-e8de-45dc-b54e-8173c4593973,Total Energy Consumption,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:1b151f18-e61e-4d14-b8cd-c48fa105d0c4,Nominal Coefficient of Performance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:f4691f12-6067-40e1-b404-e9f9cfc61fc1,Energy Cost,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:4745f0a6-4a1b-4cf8-b78a-31bd54a83065,Percentage,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:601791f2-594c-459b-9cb3-f49e40f7f2b4,Unit Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:ea89255a-8b10-45ec-8131-d23b67277fdd,Coal Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:eb66ec40-2811-466c-aeec-f7ee68039be4,Apparent Power,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:3078ec4d-3747-4a5e-b7f8-73e767912846,Reactive Power,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:84b79a76-d9db-49fd-b413-9f3500d3ea12,Apparent Energy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:9ee2a6d4-0ec7-4af3-bd2e-a577a39e3dd7,Reactive Energy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:1d94e168-8232-431f-8083-1cebe63ec2be,Active Power,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:7deea234-e5d9-4368-af7d-ad115c196ba9,Active Energy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:774037ec-aa65-4784-86f2-4a92eed91b1c,Frequency,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:0f7300c5-3d75-4cf0-b1e0-19ba304bb5ee,Electricity Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:3ea518fd-6d00-44e5-b9b3-db945a156774,Electric Charge,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:420ffb58-e20a-4103-a439-e0cba37561da,Electrical Conductance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:fb2c606a-ff27-4807-a7e9-b40d877daee6,Electrical Conductivity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c063390d-172e-4290-b892-1d7e7e6140c4,Electrical Resistance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:65c3d59a-535c-43f8-9f74-85a887c74e36,Electrical Energy Cost,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:5c3ef9ba-4257-4151-b7f1-d901334fdb52,Volume Fuel Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c6378bad-2ab9-4cb8-98f0-9be1c6ee461d,Water Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:5034b152-b101-4025-92f6-94735cbf7fd3,Natural Gas Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:3f49d077-3002-422f-81f8-14e793518171,Mass Steam Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:fec6f07e-77f5-4219-9b2b-19644308b550,Volume Steam Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:0bd719f5-fdca-4487-a2cd-f67b897c51cc,Mass Vapor Quality,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:69fcd0f9-1b96-4d95-affb-97fe0f2f1e6f,Mass of CO2 equivalent per Unit Of Electrical Energy,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:e367c61f-c607-4fa3-a1db-9e848c00c8ba,Mass of CO2 equivalent per Unit Of Gas Energy (LHV),metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:00018b91-3ff3-4b80-ab1b-63eb2ccb28ad,Piece Flowrate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:03bab987-0204-4e85-90bb-d22cbd3bc8bc,Condensing Temperature,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:050fe32b-5094-452f-a2e6-2f3fa909d5d1,Cooling Water Valve Status,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:051e5f7a-6647-403b-ae8e-8978f05d5465,Currency,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:0588ab10-9bd2-403f-b294-26e8f0886848,Burner Air Valve Opening,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:092c2efc-30c0-46aa-b831-5367a32bc198,Percentage Total Gas Energy Consumed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:0b7fecd5-d9ee-49ee-889a-7ea732b58a2c,Particules Concentration (<10Μm),metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:0deb5b0f-cf17-4fff-8d4c-f22b62dd51d0,Volume Water Consumed,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:0edc78fb-1695-4fee-80bd-75436cb31f42,Percentage Rate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:10d1f09b-7122-400c-9f94-f648b45f47d4,Linear Pressure,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:11374344-d41c-4f4c-b61d-ac6d42949982,Surface,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:11c053fc-8853-460c-9335-848598545d40,Cooling Rate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:13e06b1d-728b-4bec-98f7-4943b051d5d1,Surface Flowrate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:157ab87e-fee1-4ef9-ac5d-51255e463956,Particules Concentration (<2.5Μm),metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:1918fce2-3d48-4e5c-b959-537981eeeca6,Surface Intensity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:198eb635-52dc-4355-9374-ec9ab6a730c3,Humidity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:1e118cdb-de52-47bb-bed3-569b5c51d26d,Combustion Blower Opening,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:236cedd0-c155-4910-b7bc-343e846238ff,Pressure Rate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:29c497e9-bf7e-4ce9-807a-91f34087e363,Unit Number,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:2aed4e54-f130-4db6-baf1-6f740420bf0a,Percentage Total Gas Power Consumed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:30b0532c-fd0b-4ee5-bd5f-a2b6bab61de2,Time,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:3541142f-edef-4476-9f48-40e6d4ae5e67,Capacity,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:374537ba-22e1-43e6-9082-73b0b6fef581,Energy Specific Mass,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:3a948739-8cf5-4ede-9dcf-584757e36b03,Default,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:40dcccce-716f-405c-8d85-41921b398d85,Amount Of Substance,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:4232b0fa-b4e6-4cea-bc6d-e23b9f4314e1,Energy Specific Volume,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:43d59aec-a30c-4d0d-9cce-24a0fefe47a8,Relative Slip,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:44238594-9178-46e8-878b-840271b5ed96,Potential Of Hydrogen,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:4461a282-8529-427a-b23f-d14b7294bf87,Consumed Volume,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:48b79972-e152-46d5-a7e7-381c6f960b2e,Mass Water Consumed,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:49dff350-2d49-41fe-bbf5-4ec3f39c129b,Specific Consumption Unit,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:4aa4ee70-7c0b-47eb-8cd4-26c89a713569,Internal Resistance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:4b8580fb-a3e1-4b70-b4a5-86ceaa1d6c59,Discharging Rate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:4cff6e48-f344-4d0a-b83d-21dae7d94515,Mole Fraction,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:56f4f7dc-9610-4704-9236-a411d109e541,Burner Gas Valve Opening,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:59a6dce2-4a33-4e37-99b2-30dc9f37487b,Consumed Energy,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:5cc0187d-6214-4f2b-8d86-f4badd83d7a8,Flowrate Produced,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:5dc5b15d-a4af-4b6d-8388-19d5e4dcea20,Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:60326690-b01c-44ba-ad37-06405344e866,Acceleration,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:67a5237d-aa7c-406a-930d-a85165ac7fd5,Heating Rate,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:69aa09ee-27fd-4cc7-b75d-af73a761292d,Steam Cost,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:6ea3c48e-cb15-47ef-a1bc-29d302005232,Specific Volume,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:70e1b6ba-f7cd-499d-bf8c-bc8aa112a098,Mass of CO2 equivalent per Unit Of Coal Energy,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:7135436d-5f69-4dac-8c5c-6bbcf3cfd05c,Time Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:7b19be8d-9c79-47b7-9cc2-7aabb4bf2143,Molar Concentration,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:7f736e0c-7812-44c4-9764-3315da2407e1,Percentage Total Electrical Power Consumed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:80eb7d22-b759-48ee-9e97-5281837c0b0a,Torque,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:826ad26f-9792-4ba4-8028-2c2ba51bede1,Digital Measurement Unit,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:84732bdf-500f-4505-ac8f-2e6b6e7c8e91,Volume Water Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:88dfda2f-0937-4183-a597-67f004764a08,Volume Steam Consumed,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:89d797a3-2cc3-41ca-b46d-b551838676b1,Linear Mass,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:8c763717-30b4-412d-a90b-f6581f6530ef,Surface Thermal Resistance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:8d89bbfd-b58a-4231-a3fc-b00deeb4f313,Flowrate Consumed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:91e0a0d5-a01f-4ab6-906a-1ebcb9489740,Percentage Total Electrical Energy Consumed,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9216654a-e43d-480f-a216-942520542ecf,Surface Electrical Conductance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:94aa6c45-97e9-453c-870c-bed4560da76b,Unit Specific Mass,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9588d244-aca0-432e-958b-23bbf3c26bf6,Absolute Thermal Resistance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9b7f4f3c-2ca9-47fd-bf2e-b00a663b25a7,Blower Vfd Setpoint,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9fc721a8-0121-4e76-9983-ec3680241c1d,Surface Luminous Intensity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a000dd41-0cee-4b81-bd1a-0184fb84407f,Mass Concentration,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a16d0d69-f32b-4545-9dd3-9bb6861b6a92,Mass Enthalpy,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a1b7513e-2f5e-455a-818d-67cc77a63727,Energy Ratio,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a4f08d08-6477-4844-bb4b-d84c402a99cb,Surface Mass,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a59f275a-6d4b-43c4-93d4-a97074318431,Specific Consumption Surface,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a8b86a3f-48d2-4df1-a3c8-dbd2e3a1193e,Volume Ratio,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:b2cc31b4-afdd-4b24-a8bf-9ac32958558d,Luminous Intensity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:b74c4323-a0db-4a58-8715-2f6ba87f7d6f,Gas Energy Cost,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:bd3ee8dc-2ab1-4bda-88d7-6c416bba8e3f,Specific Heat Capacity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c7e259aa-c29f-4b25-a18d-cf13ea374567,Mass of CO2 equivalent per Unit Of Fuel Energy,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:c887664b-8ebc-4c34-be1c-03453daac41c,Mass Ratio,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:ce011a1b-96a9-4c78-b455-7d4be7f83c4e,Unit Specific Volume,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:d34cc8f9-e3a8-4258-a758-588a7af045a3,Angle,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:d3707eaa-015e-479e-b117-448cdfcba377,Turbidity,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:d67ecae7-3830-4fa5-9726-0e68e3bda201,Force,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:d68bbff2-dc58-4934-8b98-13bc225df26d,Diffuse Normal Solar Irradiance,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:e0eac7af-efc5-407c-aa62-1718caafa996,Mass Steam Consumed,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:e47331af-028b-4676-b68f-8c8687c0a471,Length,metron:561ea2cf-b681-4c67-9bab-284a2df05882,Quantity
+metron:e879c405-3770-4919-9269-40bab1cd9a5c,Mass Water Price,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:eb74c2f0-06be-472f-8cd6-dc04a7ca3509,Thermal Power,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:f6e92149-37ac-44e0-8bba-e76e28bc9829,Specific Consumption Length,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:f7eae2e0-d475-462f-961a-e3da4c121ca0,Unit Energy Consumption,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:2f0567b9-5174-4353-8bd2-7c58fbad0023,Mass of CO2 equivalent per Unit Of Gas Energy (HHV),metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:01d0171c-3701-4560-ab6e-728ba7c7520a,Massic Higher Heating Value,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:348981f7-8101-4419-a765-864650701a4e,Massic Lower Heating Value,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:9e6891d0-d48c-4687-b0fb-d1a0b22af564,Volumic Higher Heating Value,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous
+metron:a0026121-a270-4f66-9a5c-d293219f6a36,Volumic Lower Heating Value,metron:6354234a-6718-4864-b57a-8a65b55c925e,Continuous

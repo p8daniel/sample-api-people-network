@@ -1,0 +1,391 @@
+people:
+- firstname: John
+  lastname: Smith
+  nickname: Johnny
+  parent_of:
+  - Lucy Smith
+  - Bob Smith
+  - Neil Smith
+  - Clara Duvall
+  child_of: []
+  uuid: 4b3df73f-0174-4c20-b82c-89a1466689cb
+
+- firstname: Lucy
+  lastname: Smith
+  nickname: Lulu
+  parent_of:
+  - Kevin Smith
+  - Sarah Smith
+  child_of:
+  - John Smith
+  uuid: 9f1f9718-105b-4315-83e3-e313df373bb0
+
+- firstname: Bob
+  lastname: Smith
+  nickname: Bobby
+  parent_of: []
+  child_of:
+  - John Smith
+  uuid: 690d15ae-0f8c-4645-81b4-8a9eee2f2d4f
+
+- firstname: Kevin
+  lastname: Smith
+  nickname: Kev
+  parent_of: []
+  child_of:
+  - Lucy Smith
+  uuid: 0ef46964-4a87-4359-a64b-35578bfadf3e
+
+- firstname: Anna
+  lastname: Smith
+  nickname: Annie
+  parent_of:
+  - John Smith
+  - Susan Smith
+  child_of: []
+  uuid: abcb029f-9562-46db-bfc9-b3fb00b60e2e
+
+- firstname: Susan
+  lastname: Smith
+  nickname: Susie
+  parent_of:
+  - Frank Smith
+  - Jane Smith
+  child_of:
+  - Anna Smith
+  uuid: 801225df-d5e1-4b01-adae-0cca392608da
+
+- firstname: Frank
+  lastname: Smith
+  nickname: Frankie
+  parent_of: []
+  child_of:
+  - Susan Smith
+  uuid: de3eba75-df67-4a4c-8d74-2dc194c21993
+
+- firstname: Jane
+  lastname: Smith
+  nickname: Janie
+  parent_of: []
+  child_of:
+  - Susan Smith
+  uuid: 59c3ae6d-10ad-46ab-ae1e-66ae859c1936
+
+- firstname: Neil
+  lastname: Smith
+  nickname: Nelly
+  parent_of: []
+  child_of:
+  - John Smith
+  uuid: b21e20a4-6975-4a92-a4fe-0bec31508130
+
+- firstname: Clara
+  lastname: Duvall
+  nickname: Clary
+  parent_of:
+  - Mary Smith
+  - Peter Smith
+  child_of:
+  - John Smith
+  uuid: b3d0dfce-af08-4633-8ed8-5cae89dd8a1b
+
+- firstname: Mary
+  lastname: Smith
+  nickname: M&M
+  parent_of: []
+  child_of:
+  - Clara Duvall
+  uuid: 3d4320e2-83e2-4fde-8776-862d1fc07680
+
+- firstname: Peter
+  lastname: Smith
+  nickname: Pete
+  parent_of: []
+  child_of:
+  - Clara Duvall
+  uuid: 3d660778-d473-4042-8670-95d7451fa32c
+
+- firstname: Sarah
+  lastname: Smith
+  nickname: Sasa
+  parent_of: []
+  child_of:
+  - Lucy Smith
+  uuid: ba6db202-eaeb-4f95-ab40-c4c5094d957b
+
+- firstname: Victor
+  lastname: Smith
+  nickname: Vic
+  parent_of:
+  - John Smith
+  child_of: []
+  uuid: 13478bb6-367d-4c2a-ada4-80877b1ef8a4
+
+- firstname: Lisa
+  lastname: Smith
+  nickname: Lee
+  parent_of:
+  - Anna Smith
+  child_of: []
+  uuid: 94c245b1-3be2-4eda-8737-e559f8cac2e5
+
+- firstname: Tom
+  lastname: Smith
+  nickname: Tommy
+  parent_of:
+  - Lisa Smith
+  - Victor Smith
+  child_of: []
+  uuid: 2b632ce6-0e6b-40b0-a34f-fd29d97c8ea5
+
+- firstname: James
+  lastname: Brown
+  nickname: Jimbo
+  parent_of:
+  - Ella Brown
+  - Mike Brown
+  - Oscar Brown
+  - Olivia Brown
+  child_of: []
+  uuid: e708394e-935c-405d-b2a2-6d68a1470d41
+
+- firstname: Ella
+  lastname: Brown
+  nickname: Ellie
+  parent_of:
+  - Sara Brown
+  - Ian Brown
+  child_of:
+  - James Brown
+  uuid: 223bae59-f829-401b-a985-08b37d6eb1c7
+
+- firstname: Mike
+  lastname: Brown
+  nickname: Mikey
+  parent_of: []
+  child_of:
+  - James Brown
+  uuid: a7b8a5d2-6b18-4c7a-a71f-10f14953f87e
+
+- firstname: Sara
+  lastname: Brown
+  nickname: Sar
+  parent_of: []
+  child_of:
+  - Ella Brown
+  uuid: f5337bc9-2a8b-42bf-b481-d50774acbc15
+
+- firstname: Emily
+  lastname: Stevens
+  nickname: Emmy
+  parent_of:
+  - James Brown
+  - Rachel Brown
+  child_of: []
+  uuid: 141574ad-be93-449d-9730-469d997d8562
+
+- firstname: Rachel
+  lastname: Brown
+  nickname: Ray
+  parent_of:
+  - George Brown
+  - Ruby Brown
+  child_of:
+  - Emily Stevens
+  uuid: 1b4326e5-1853-48d1-ad69-ecee0259f2c4
+
+- firstname: George
+  lastname: Brown
+  nickname: Georgie
+  parent_of: []
+  child_of:
+  - Rachel Brown
+  uuid: 01ddd2b4-2369-44bc-9429-7de51c3d3c61
+  friend_of:
+  - Bob Smith
+
+- firstname: Ruby
+  lastname: Brown
+  nickname: Ruru
+  parent_of: []
+  child_of:
+  - Rachel Brown
+  uuid: 08adfb73-5242-42e1-a360-3117097d8fea
+
+- firstname: Oscar
+  lastname: Brown
+  nickname: Ozzy
+  parent_of: []
+  child_of:
+  - James Brown
+  uuid: 0b26d1fc-1943-4293-b7b4-3a4571a237a9
+
+- firstname: Olivia
+  lastname: Brown
+  nickname: Liv
+  parent_of:
+  - Paul Brown
+  - Eve Brown
+  child_of:
+  - James Brown
+  uuid: 3dbb7473-347a-4f4c-9d6e-07c5cc00324f
+
+- firstname: Paul
+  lastname: Brown
+  nickname: Pauly
+  parent_of: []
+  child_of:
+  - Olivia Brown
+  uuid: 5f12264e-2102-461b-a426-7c3f0323b5a3
+
+- firstname: Eve
+  lastname: Brown
+  nickname: Evie
+  parent_of: []
+  child_of:
+  - Olivia Brown
+  uuid: d89e937b-f903-49f1-afdc-5ffa93b15d15
+
+- firstname: Ian
+  lastname: Brown
+  nickname: E
+  parent_of: []
+  child_of:
+  - Ella Brown
+  uuid: d74ca3da-4d30-4142-9257-24af0fab7f31
+
+- firstname: Henry
+  lastname: Brown
+  nickname: Hank
+  parent_of:
+  - James Brown
+  child_of: []
+  uuid: b622aa4b-4740-41ce-8009-e74de27d43ee
+
+- firstname: Kate
+  lastname: Brown
+  nickname: Katy
+  parent_of:
+  - Emily Stevens
+  child_of: []
+  uuid: c3e9bab7-afa5-4cc9-a453-3985d992eb0a
+
+- firstname: Richard
+  lastname: Taylor
+  nickname: Ricky
+  parent_of:
+  - Zoe Taylor
+  - Sam Taylor
+  child_of:
+  - Grace Taylor
+  uuid: a2e47d96-2a7c-4132-a9e6-fbc5ddd2c05f
+
+- firstname: Zoe
+  lastname: Taylor
+  nickname: Zozo
+  parent_of:
+  - Max Taylor
+  child_of:
+  - Richard Taylor
+  uuid: 10d11ded-8550-44ac-9a30-1c5b453fe801
+
+- firstname: Sam
+  lastname: Taylor
+  nickname: Sammy
+  child_of:
+  - Richard Taylor
+  uuid: 2c62fa83-b756-4ec5-a69a-97e22ed390a6
+
+- firstname: Max
+  lastname: Taylor
+  nickname: Maxi
+  child_of:
+  - Zoe Taylor
+  uuid: 411ad976-e0e2-4cfa-a5ef-916552d45b9d
+
+- firstname: Grace
+  lastname: Taylor
+  nickname: Gracie
+  parent_of:
+  - Richard Taylor
+  uuid: 034d840e-7d35-4c0e-9bc5-a82b9d2f7fa7
+
+- firstname: David
+  lastname: White
+  nickname: Dave
+  parent_of:
+  - Mia White
+  - Jake White
+  child_of:
+  - Rebecca White
+  uuid: f03b9fcc-e708-482a-9344-4f8e2da2930b
+
+- firstname: Mia
+  lastname: White
+  nickname: Mimi
+  parent_of:
+  - Luke White
+  child_of:
+  - David White
+  uuid: 245d82c1-b1b8-4a65-8ad4-0bd60f8bba8e
+
+- firstname: Jake
+  lastname: White
+  nickname: J
+  child_of:
+  - David White
+  uuid: 13b7c938-8f3b-4c2f-a6fb-3470dddca42b
+
+- firstname: Luke
+  lastname: White
+  nickname: Lucky
+  child_of:
+  - Mia White
+  uuid: 9890b3b0-c303-47d4-b80e-c8f9e2ff601c
+
+- firstname: Rebecca
+  lastname: White
+  nickname: Becky
+  parent_of:
+  - David White
+  uuid: fffd93c7-0042-4605-b1cb-a68a23074ee1
+
+- firstname: Brian
+  lastname: Wilson
+  nickname: Bri
+  parent_of:
+  - Emma Wilson
+  - Liam Wilson
+  child_of:
+  - Jessica Wilson
+  uuid: f5ad3d6f-ea7b-4fb6-a5f3-40103fa2668f
+
+- firstname: Emma
+  lastname: Wilson
+  nickname: Emmy
+  parent_of:
+  - Sophie White
+  child_of:
+  - Brian Wilson
+  uuid: d4b31401-9661-4f21-a751-f62acd745835
+
+- firstname: Liam
+  lastname: Wilson
+  nickname: Lee
+  child_of:
+  - Brian Wilson
+  uuid: 71823d62-0e66-47ca-a572-8349d8e21fe7
+
+- firstname: Sophie
+  lastname: Wilson
+  nickname: Soph
+  child_of:
+  - Emma Wilson
+  uuid: ddd9d0c1-36c6-4700-8086-ffdf6f1b0130
+
+- firstname: Jessica
+  lastname: Wilson
+  nickname: Jess
+  parent_of:
+  - Brian Wilson
+  uuid: 12d0869c-840a-4a2c-8ea2-c4bdd0b91592
