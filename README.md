@@ -34,5 +34,4 @@ $ docker-compose up -d
 
 ## Data
 
-The database can be initialized with 46 persons with their Parent/Children information, separated in 5 different families, available in the `data.yml` file. To load the data to the database run the python script in app/dp/init_dp.py should be lauched. 
-
+The database can be initialized with 46 persons with their Parent/Children information, separated in 5 different families, available in the `data.yml` file. To load the data to the database run the python script in app/dp/init_dp.py should be launched.
